@@ -1,0 +1,30 @@
+dependencies:
+- name: common
+  repository: file://../../common
+  version: 1.0.0
+- name: rabbitmq
+  repository: file://../../components/rabbitmq
+  version: 1.0.0
+- name: mongodb
+  repository: file://../../components/mongodb
+  version: 1.0.0
+- name: mysql
+  repository: file://../../components/mysql
+  version: 1.0.0
+- name: auth-server
+  repository: file://../../components/auth-server
+  version: 1.0.0
+- name: book
+  repository: file://../../components/book
+  version: 1.0.0
+- name: recommendation
+  repository: file://../../components/recommendation
+  version: 1.0.0
+- name: review
+  repository: file://../../components/review
+  version: 1.0.0
+- name: book-outlet
+  repository: file://../../components/book-outlet
+  version: 1.0.0
+digest: sha256:0efb42ba3b08a1feec7fcfd67d4b573147d48f8497c13249db7f4545e693cd26
+generated: "2024-02-26T19:14:46.302795623+07:00"
