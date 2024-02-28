@@ -1,16 +1,11 @@
 # KJVMSVC
 
-[Starting](docs/01%20Starting%20kubernetes.md)
-
-[Setup cert-manager](docs/02 Setup cert manager.md)
-
-[Setup service mesh](docs/03 Setup service mesh.md)
-
-[Setup logging](docs/04 Setup logging.md)
-
-[Setup monitoring](docs/05 Setup monitoring.md)
-
-[Deployment](docs/06 Deployment.md)
+01. [Starting](docs/01%20Starting%20kubernetes.md)
+02. [Setup cert-manager](docs/02%20Setup%20cert%20manager.md)
+03. [Setup service mesh](docs/03%20Setup%20service%20mesh.md)
+04. [Setup logging](docs/04%20Setup%20logging.md)
+05. [Setup monitoring](docs/05%20Setup%20monitoring.md)
+06. [Deployment](docs/06%20Deployment.md)
 
 ## Screenshot
 
