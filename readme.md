@@ -1,6 +1,6 @@
 # KJVMSVC
 
-[Starting](docs/01 Starting kubernetes.md)
+[Starting](docs/01%20Starting%20kubernetes.md)
 
 [Setup cert-manager](docs/02 Setup cert manager.md)
 
