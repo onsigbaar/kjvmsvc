@@ -1,16 +1,16 @@
 # KJVMSVC
 
-[Starting](/docs/01 Starting kubernetes.md)
+[Starting](docs/01 Starting kubernetes.md)
 
-[Setup cert-manager](/docs/02 Setup cert manager.md)
+[Setup cert-manager](docs/02 Setup cert manager.md)
 
-[Setup service mesh](/docs/03 Setup service mesh.md)
+[Setup service mesh](docs/03 Setup service mesh.md)
 
-[Setup logging](/docs/04 Setup logging.md)
+[Setup logging](docs/04 Setup logging.md)
 
-[Setup monitoring](/docs/05 Setup monitoring.md)
+[Setup monitoring](docs/05 Setup monitoring.md)
 
-[Deployment](/docs/06 Deployment.md)
+[Deployment](docs/06 Deployment.md)
 
 ## Screenshot
 
