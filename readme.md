@@ -6,6 +6,7 @@
 04. [Setup logging](docs/04%20Setup%20logging.md)
 05. [Setup monitoring](docs/05%20Setup%20monitoring.md)
 06. [Deployment](docs/06%20Deployment.md)
+07. [Starting-up](docs/07%20Starting-up.md)
 
 ## Screenshot
 
