@@ -14,4 +14,4 @@
 |-----------------------------------------|-----------------------------------------|
 | ![img-56](./docs/img/screenshot.56.jpg) | ![img-57](./docs/img/screenshot.57.jpg) |
 | ![img-60](./docs/img/screenshot.60.jpg) | ![img-62](./docs/img/screenshot.62.jpg) |
-| ![img-53](./docs/img/screenshot.53.jpg) |                                         |
+| ![img-53](./docs/img/screenshot.53.jpg) | ![img-66](./docs/img/screenshot.66.jpg) |

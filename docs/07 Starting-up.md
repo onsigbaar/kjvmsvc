@@ -28,3 +28,5 @@ https://mail.minikube.me/#/
 https://kiali.minikube.me/
 
 https://grafana.minikube.me/
+
+https://minikube.me/openapi/webjars/swagger-ui/index.html
