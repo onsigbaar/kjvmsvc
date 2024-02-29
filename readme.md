@@ -1,6 +1,6 @@
 # KJVMSVC
 
-01. [Starting](docs/01%20Starting%20kubernetes.md)
+01. [Starting Kubernetes](docs/01%20Starting%20kubernetes.md)
 02. [Setup cert-manager](docs/02%20Setup%20cert%20manager.md)
 03. [Setup service mesh](docs/03%20Setup%20service%20mesh.md)
 04. [Setup logging](docs/04%20Setup%20logging.md)
