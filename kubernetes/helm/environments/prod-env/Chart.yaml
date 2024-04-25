@@ -1,0 +1,43 @@
+apiVersion: v2
+appVersion: "1.0"
+description: A Helm chart for KJVMSVC-APP running in a QA or Production environment
+name: prod-env
+version: 1.0.0
+
+dependencies:
+
+  - name: common
+    version: 1.0.0
+    repository: file://../../common
+
+  - name: auth-server
+    version: 1.0.0
+    repository: file://../../components/auth-server
+
+  - name: book
+    version: 1.0.0
+    repository: file://../../components/book
+
+  - name: recommendation
+    version: 1.0.0
+    repository: file://../../components/recommendation
+
+  - name: review
+    version: 1.0.0
+    repository: file://../../components/review
+
+  - name: book-outlet
+    version: 1.0.0
+    repository: file://../../components/book-outlet
+
+  - name: book-green
+    version: 1.0.0
+    repository: file://../../components/book-green
+
+  - name: recommendation-green
+    version: 1.0.0
+    repository: file://../../components/recommendation-green
+
+  - name: review-green
+    version: 1.0.0
+    repository: file://../../components/review-green

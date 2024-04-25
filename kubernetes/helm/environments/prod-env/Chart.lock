@@ -1,0 +1,30 @@
+dependencies:
+- name: common
+  repository: file://../../common
+  version: 1.0.0
+- name: auth-server
+  repository: file://../../components/auth-server
+  version: 1.0.0
+- name: book
+  repository: file://../../components/book
+  version: 1.0.0
+- name: recommendation
+  repository: file://../../components/recommendation
+  version: 1.0.0
+- name: review
+  repository: file://../../components/review
+  version: 1.0.0
+- name: book-outlet
+  repository: file://../../components/book-outlet
+  version: 1.0.0
+- name: book-green
+  repository: file://../../components/book-green
+  version: 1.0.0
+- name: recommendation-green
+  repository: file://../../components/recommendation-green
+  version: 1.0.0
+- name: review-green
+  repository: file://../../components/review-green
+  version: 1.0.0
+digest: sha256:9caa75354073615c43a8bbfaec651240e5cd9fb6876e96202dbb6600fab6e2ee
+generated: "2024-02-26T19:14:47.659170275+07:00"

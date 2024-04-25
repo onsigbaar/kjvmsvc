@@ -1,0 +1,16 @@
+apiVersion: networking.istio.io/v1beta1
+kind: VirtualService
+metadata:
+  name: book
+spec:
+  hosts:
+    - book
+  http:
+  - route:
+    - destination:
+        host: book
+    fault:
+      abort:
+        httpStatus: 500
+        percentage:
+          value: 20

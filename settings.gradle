@@ -1,0 +1,8 @@
+include ':api'
+include ':util'
+include ':microservices:book-service'
+include ':microservices:review-service'
+include ':microservices:recommendation-service'
+include ':microservices:book-outlet-service'
+include ':spring-cloud:gateway'
+include ':spring-cloud:authorization-server'
